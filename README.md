@@ -43,7 +43,7 @@ Tolik focuses on:
 - decision traceability
 - threshold-based reliability logic
 
-Repository: [Tolik](https://github.com/adwipoteka-sys/Tolik_v3_142_rollback_cooldown_antiflap)
+Repository: [Tolik](https://github.com/adwipoteka-sys/Tolik)
 
 ---
 
